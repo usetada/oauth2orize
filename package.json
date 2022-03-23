@@ -1,5 +1,5 @@
 {
-  "name": "oauth2orize",
+  "name": "oauth2orize-custom-integrationV2",
   "version": "1.11.1",
   "description": "OAuth 2.0 authorization server toolkit for Node.js.",
   "keywords": [
